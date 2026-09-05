@@ -17,7 +17,7 @@ Building responsive, user-friendly and modern web applications.
 - 🚀 I enjoy building responsive and user-friendly web applications
 - 🧩 Interested in **Frontend Development and Full Stack Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js**
-- 📫 Email: **your-email@gmail.com**
+- 📫 Email: **bebee24@navgurukul.org**
 
 ---
 
@@ -58,12 +58,6 @@ Building responsive, user-friendly and modern web applications.
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
-
-A web-based hospital management application for managing patients,
-registration, billing and other hospital-related operations.
-
-**Technologies:** HTML, CSS, JavaScript
 
 ---
 
@@ -77,48 +71,7 @@ responsive interface.
 
 ---
 
-### 🎯 Idea Sharing Platform
 
-A platform where users can create, edit, delete and interact
-with ideas and tasks.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=babymishr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=babymishr&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/babymishr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
